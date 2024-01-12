@@ -3,7 +3,7 @@
 My name is Nicolas Cavasin & i'm a Backend/DevOps/Cloud/SRE engineer.
 
 
-- :atom: I'm working as an SRE engineer in [Capchase](https://www.capchase.com/).
+- :atom: I'm working as an SRE in [Capchase](https://www.capchase.com/).
     - Former DevOps/Cloud engineer in [CloudHesive LATAM](https://www.cloudhesivelatam.com/).
     - Former Java backend engineer of [Hub - Technical Sales](https://hub.inc/) using Java + Springboot & PostgreSQL + Flyway on AWS.
 - 💆‍♂️🌱 During my leisure time i enjoy a lot hitting the gym, going out with my friends, hanging out with my girlfriend, reading and drinking mate 🧉.
