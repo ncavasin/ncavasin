@@ -8,5 +8,5 @@ Formerly:
 - Backend Intern at [Walmart's Distribution Center (ARG)](https://www.walmart.com).
 
 Contact:
-- [www.linkedin.com/nicolas-cavasin](www.linkedin.com/nicolas-cavasin)
+- [www.linkedin.com/in/nicolas-cavasin](www.linkedin.com/in/nicolas-cavasin)
 - [ncavasin97@gmail.com](mailto:ncavasin97@gmail.com)
