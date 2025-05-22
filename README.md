@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-Currently SRE at [Capchase](https://www.capchase.com/).
+Currently SRE at [Blockchain](https://www.blockchain.com/).
 
 Formerly: 
+- SRE at [Capchase](https://www.capchase.com/).
 - DevOps Engineer at [CloudHesive LATAM](https://www.cloudhesivelatam.com/).
 - Backend Engineer at [Hub - Technical Sales](https://hub.inc/).
 - Backend Intern at [Walmart's Distribution Center (ARG)](https://www.walmart.com).
