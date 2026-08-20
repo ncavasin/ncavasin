@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Currently SRE at [Blockchain](https://www.blockchain.com/).
+Currently SRE at [Blockchain.com](https://www.blockchain.com/)
 
 Formerly: 
 - SRE at [Capchase](https://www.capchase.com/).
